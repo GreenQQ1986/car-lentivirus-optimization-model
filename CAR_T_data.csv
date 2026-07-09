@@ -1,0 +1,71 @@
+Figure,Cell_Type,CAR,Concentration,Volume_uL,Time,Transduction_Percent,Condition,Plasmid,Ratio
+S5,Jurkat E6-1,WT-CAR,Non-concentrated,50,48h,10.0,,,
+S5,Jurkat E6-1,WT-CAR,Non-concentrated,150,48h,20.0,,,
+S5,Jurkat E6-1,WT-CAR,Concentrated,50,48h,85.0,,,
+S5,Jurkat E6-1,WT-CAR,Concentrated,150,48h,90.0,,,
+S5,Jurkat E6-1,WT-CAR,Non-concentrated,50,96h,15.0,,,
+S5,Jurkat E6-1,WT-CAR,Non-concentrated,150,96h,25.0,,,
+S5,Jurkat E6-1,WT-CAR,Concentrated,50,96h,75.0,,,
+S5,Jurkat E6-1,WT-CAR,Concentrated,150,96h,96.0,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Non-concentrated,50,48h,0.5,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Non-concentrated,150,48h,1.0,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Concentrated,50,48h,2.5,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Concentrated,150,48h,7.5,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Non-concentrated,50,96h,0.5,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Non-concentrated,150,96h,1.5,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Concentrated,50,96h,5.0,,,
+S5,Jurkat E6-1,anti-FITC-CAR,Concentrated,150,96h,12.5,,,
+S6,Jurkat E6-1,anti-FITC-CAR,,50,48h,2.5,Without Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,150,48h,7.5,Without Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,50,48h,5.0,With Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,150,48h,12.5,With Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,50,96h,5.0,Without Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,150,96h,8.0,Without Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,50,96h,10.0,With Shaking,,
+S6,Jurkat E6-1,anti-FITC-CAR,,150,96h,22.5,With Shaking,,
+S7,Jurkat E6-1,anti-FITC-CAR,,50,48h,1.32,,PAX2,
+S7,Jurkat E6-1,anti-FITC-CAR,,150,48h,4.46,,PAX2,
+S7,Jurkat E6-1,anti-FITC-CAR,,50,96h,1.75,,PAX2,
+S7,Jurkat E6-1,anti-FITC-CAR,,150,96h,4.22,,PAX2,
+S7,Jurkat E6-1,anti-FITC-CAR,,50,48h,3.43,,R8.74,
+S7,Jurkat E6-1,anti-FITC-CAR,,150,48h,7.15,,R8.74,
+S7,Jurkat E6-1,anti-FITC-CAR,,50,96h,4.9,,R8.74,
+S7,Jurkat E6-1,anti-FITC-CAR,,150,96h,10.77,,R8.74,
+S8,Jurkat E6-1,anti-FITC-CAR,,50,48h,14.82,,,0.5:3:1
+S8,Jurkat E6-1,anti-FITC-CAR,,150,48h,21.22,,,0.5:3:1
+S8,Jurkat E6-1,anti-FITC-CAR,,50,96h,4.25,,,0.5:3:1
+S8,Jurkat E6-1,anti-FITC-CAR,,150,96h,14.6,,,0.5:3:1
+S8,Jurkat E6-1,anti-FITC-CAR,,50,48h,15.39,,,0.5:3:2
+S8,Jurkat E6-1,anti-FITC-CAR,,150,48h,17.96,,,0.5:3:2
+S8,Jurkat E6-1,anti-FITC-CAR,,50,96h,15.82,,,0.5:3:2
+S8,Jurkat E6-1,anti-FITC-CAR,,150,96h,25.0,,,0.5:3:2
+S8,Jurkat E6-1,anti-FITC-CAR,,50,48h,15.18,,,0.5:3:4
+S8,Jurkat E6-1,anti-FITC-CAR,,150,48h,13.8,,,0.5:3:4
+S8,Jurkat E6-1,anti-FITC-CAR,,50,96h,5.96,,,0.5:3:4
+S8,Jurkat E6-1,anti-FITC-CAR,,150,96h,11.81,,,0.5:3:4
+S9,Jurkat E6-1,anti-FITC-CAR,,50,48h,18.0,0% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,50,48h,35.0,1% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,150,48h,45.0,0% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,150,48h,55.0,1% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,50,96h,20.0,0% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,50,96h,40.0,1% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,150,96h,25.0,0% LentiBlast,,
+S9,Jurkat E6-1,anti-FITC-CAR,,150,96h,58.0,1% LentiBlast,,
+S10,PBMCs,WT-CAR,,50,48h,18.0,0% LentiBlast,,
+S10,PBMCs,WT-CAR,,50,48h,45.0,1% LentiBlast,,
+S10,PBMCs,WT-CAR,,50,96h,40.0,0% LentiBlast,,
+S10,PBMCs,WT-CAR,,50,96h,78.0,1% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,50,48h,1.0,0% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,50,48h,3.0,1% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,150,48h,2.0,0% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,150,48h,4.0,1% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,50,96h,4.0,0% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,50,96h,7.0,1% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,150,96h,4.0,0% LentiBlast,,
+S10,PBMCs,anti-FITC-CAR,,150,96h,8.0,1% LentiBlast,,
+S11,PBMCs,WT-CAR,,50,96h,84.1,,,
+S11,PBMCs,WT-CAR,,50,7 days,86.8,,,
+S11,PBMCs,anti-FITC-CAR,,50,96h,3.4,,,
+S11,PBMCs,anti-FITC-CAR,,150,96h,4.7,,,
+S11,PBMCs,anti-FITC-CAR,,50,7 days,3.9,,,
+S11,PBMCs,anti-FITC-CAR,,150,7 days,5.7,,,
